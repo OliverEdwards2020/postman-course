@@ -1,4 +1,4 @@
-## After Clonin
+## After Cloning
 After cloning the repo, make sure to run `npm install` in the root of the project directory.
 
 ## Running the application
